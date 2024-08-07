@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mika-sweets/static/css/main.80a6f4ec.css",
-    "main.js": "/mika-sweets/static/js/main.34880c76.js",
+    "main.js": "/mika-sweets/static/js/main.8d0fb400.js",
     "static/js/453.2daf4bf3.chunk.js": "/mika-sweets/static/js/453.2daf4bf3.chunk.js",
     "index.html": "/mika-sweets/index.html",
     "main.80a6f4ec.css.map": "/mika-sweets/static/css/main.80a6f4ec.css.map",
-    "main.34880c76.js.map": "/mika-sweets/static/js/main.34880c76.js.map",
+    "main.8d0fb400.js.map": "/mika-sweets/static/js/main.8d0fb400.js.map",
     "453.2daf4bf3.chunk.js.map": "/mika-sweets/static/js/453.2daf4bf3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.80a6f4ec.css",
-    "static/js/main.34880c76.js"
+    "static/js/main.8d0fb400.js"
   ]
 }
