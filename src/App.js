@@ -4,7 +4,7 @@ function App() {
   return (
     <div class="content">
 
-	<h1>The Mika's Sweets and Bakery</h1>
+	<h1>The Mika's Candy</h1>
 
 	<address>
 		<p>
